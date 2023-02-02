@@ -4,7 +4,9 @@
   "description": "social network module challenge",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node index",
+    "seed": "node utils.seed"
   },
   "repository": {
     "type": "git",
